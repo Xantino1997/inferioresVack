@@ -1,0 +1,148 @@
+{
+  "teams": [
+    {
+      "nombre": "Los Andes",
+      "puntos": 13,
+      "goles_favor": 14,
+      "goles_contra": 3,
+      "partidos_jugados": 4,
+      "logo": "./los_andes.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Hertz",
+      "puntos": 10,
+      "goles_favor": 11,
+      "goles_contra": 5,
+      "partidos_jugados": 4,
+      "logo": "./hertz.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Firmat Football rojo",
+      "puntos": 7,
+      "goles_favor": 5,
+      "goles_contra": 4,
+      "partidos_jugados": 4,
+      "logo": "./firmat.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "San Martin Pavon",
+      "puntos": 5,
+      "goles_favor": 3,
+      "goles_contra": 6,
+      "partidos_jugados": 4,
+      "logo": "./san_martin_pavon.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Club Social Bigand",
+      "puntos": 5,
+      "goles_favor": 1,
+      "goles_contra": 1,
+      "partidos_jugados": 4,
+      "logo": "./Bigand Sporting.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Club Atl. Carreras",
+      "puntos": 1,
+      "goles_favor": 6,
+      "goles_contra": 18,
+      "partidos_jugados": 5,
+      "logo": "./club_atl_carreras.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Independiente Bigand",
+      "puntos": 1,
+      "goles_favor": 4,
+      "goles_contra": 8,
+      "partidos_jugados": 4,
+      "logo": "./indep_bigand.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Argentinos de Firmat",
+      "puntos": 10,
+      "goles_favor": 9,
+      "goles_contra": 4,
+      "partidos_jugados": 4,
+      "logo": "./argentinos_firmat.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Bernardino Rivadavia",
+      "puntos": 7,
+      "goles_favor": 4,
+      "goles_contra": 7,
+      "partidos_jugados": 5,
+      "logo": "./bernardino_rivadavia.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Nuevo Alberdi",
+      "puntos": 6,
+      "goles_favor": 6,
+      "goles_contra": 6,
+      "partidos_jugados": 4,
+      "logo": "./nuevo_alberdi.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Atletico Acebal",
+      "puntos": 5,
+      "goles_favor": 7,
+      "goles_contra": 6,
+      "partidos_jugados": 4,
+      "logo": "./atletico_acebal.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Olimpia Sta Teresa",
+      "puntos": 4,
+      "goles_favor": 4,
+      "goles_contra": 7,
+      "partidos_jugados": 5,
+      "logo": "./olimpia_sta_teresa.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Atletico Paz",
+      "puntos": 4,
+      "goles_favor": 3,
+      "goles_contra": 6,
+      "partidos_jugados": 5,
+      "logo": "./atletico_paz.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Sportivo Bombal",
+      "puntos": 4,
+      "goles_favor": 3,
+      "goles_contra": 5,
+      "partidos_jugados": 4,
+      "logo": "./sportivo_bombal.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Italo Argentino",
+      "puntos": 1,
+      "goles_favor": 5,
+      "goles_contra": 9,
+      "partidos_jugados": 4,
+      "logo": "./italo_argentino.png",
+      "categoria": "cuarta"
+    },
+    {
+      "nombre": "Blanco y Negro",
+      "puntos": 12,
+      "goles_favor": 12,
+      "goles_contra": 2,
+      "partidos_jugados": 4,
+      "logo": "./blanco_y_negro.png",
+      "categoria": "cuarta"
+    }
+  ]
+}

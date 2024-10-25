@@ -1,0 +1,157 @@
+{
+  "teams": [
+    {
+      "nombre": "Los Andes",
+      "puntos": 3,
+      "goles_favor": 3,
+      "goles_contra": 8,
+      "partidos_jugados": 4,
+      "logo": "./los_andes.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Hertz",
+      "puntos": 10,
+      "goles_favor": 7,
+      "goles_contra": 3,
+      "partidos_jugados": 4,
+      "logo": "./hertz.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Firmat Football rojo",
+      "puntos": 5,
+      "goles_favor": 8,
+      "goles_contra": 8,
+      "partidos_jugados": 5,
+      "logo": "./firmat.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Firmat Football Blanco",
+      "puntos": 7,
+      "goles_favor": 6,
+      "goles_contra": 15,
+      "partidos_jugados": 5,
+      "logo": "./firmat.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "San Martin Pavon",
+      "puntos": 1,
+      "goles_favor": 1,
+      "goles_contra": 8,
+      "partidos_jugados": 5,
+      "logo": "./san_martin_pavon.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Club Social Bigand",
+      "puntos": 4,
+      "goles_favor": 4,
+      "goles_contra": 9,
+      "partidos_jugados": 4,
+      "logo": "./Bigand Sporting.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Club Atl. Carreras",
+      "puntos": 12,
+      "goles_favor": 14,
+      "goles_contra": 7,
+      "partidos_jugados": 5,
+      "logo": "./club_atl_carreras.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Independiente Bigand",
+      "puntos": 3,
+      "goles_favor": 4,
+      "goles_contra": 11,
+      "partidos_jugados": 4,
+      "logo": "./indep_bigand.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Argentinos de Firmat",
+      "puntos": 13,
+      "goles_favor": 12,
+      "goles_contra": 3,
+      "partidos_jugados": 15,
+      "logo": "./argentinos_firmat.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Bernardino Rivadavia",
+      "puntos": 3,
+      "goles_favor": 1,
+      "goles_contra": 9,
+      "partidos_jugados": 4,
+      "logo": "./bernardino_rivadavia.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Nuevo Alberdi",
+      "puntos": 10,
+      "goles_favor": 20,
+      "goles_contra": 24,
+      "partidos_jugados": 15,
+      "logo": "./nuevo_alberdi.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Atletico Acebal",
+      "puntos": 10,
+      "goles_favor": 17,
+      "goles_contra": 2,
+      "partidos_jugados": 4,
+      "logo": "./atletico_acebal.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Olimpia Sta Teresa",
+      "puntos": 12,
+      "goles_favor": 5,
+      "goles_contra": 12,
+      "partidos_jugados": 5,
+      "logo": "./olimpia_sta_teresa.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Atletico Paz",
+      "puntos": 9,
+      "goles_favor": 8,
+      "goles_contra": 7,
+      "partidos_jugados": 5,
+      "logo": "./atletico_paz.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Sportivo Bombal",
+      "puntos": 9,
+      "goles_favor": 9,
+      "goles_contra": 6,
+      "partidos_jugados": 5,
+      "logo": "./sportivo_bombal.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Italo Argentino",
+      "puntos": 9,
+      "goles_favor": 13,
+      "goles_contra": 12,
+      "partidos_jugados": 5,
+      "logo": "./italo_argentino.png",
+      "categoria": "quinta"
+    },
+    {
+      "nombre": "Blanco y Negro",
+      "puntos": 3,
+      "goles_favor": 5,
+      "goles_contra": 7,
+      "partidos_jugados": 15,
+      "logo": "./blanco_y_negro.png",
+      "categoria": "quinta"
+    }
+  ]
+}
