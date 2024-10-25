@@ -5,7 +5,7 @@
     "goles_favor": 3,
     "goles_contra": 2,
     "partidos_jugados": 4,
-    "logo": "/los_andes.png",
+    "logo": "../los_andes.png",
     "categoria": "tercera"
   },
   {
