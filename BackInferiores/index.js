@@ -17,7 +17,7 @@ app.use(express.static("Logo")); // Servir imágenes estáticas de la carpeta 'L
 app.use(express.json()); // Para procesar JSON en las solicitudes
 
 // Ruta para obtener los equipos según la categoría
-app.get("/api/teams", (req, res) => {
+app.get("/teams", (req, res) => {
   const categoria = req.query.category || "tercera";
   console.log("Categoría solicitada:", categoria); // Log para ver la categoría solicitada
   let filePath;
@@ -55,7 +55,7 @@ app.get("/api/teams", (req, res) => {
   });
 });
 
-app.get("/api/allTeams", (req, res) => {
+app.get("/allTeams", (req, res) => {
   const filePath = path.join(__dirname, "allTeams.json"); // Ruta del archivo JSON
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
@@ -65,7 +65,7 @@ app.get("/api/allTeams", (req, res) => {
   });
 });
 
-app.post("/api/changeResult", (req, res) => {
+app.post("/changeResult", (req, res) => {
   const equiposActualizados = req.body; // Los datos enviados desde el frontend
 
   // Leer archivo allTeams.json
