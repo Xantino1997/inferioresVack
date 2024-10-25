@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 app.use(bodyParser.json());
 app.use(express.json());
 app.use(express.static("public")); // Ensure the 'public' folder contains your HTML file
-const filePath = path.join(__dirname, "allTeams.json"); // Ruta correcta al archivo
+const filePath = path.join(__dirname, "./allTeams.json"); // Ruta correcta al archivo
 
 app.use(express.static("Logo")); // Servir imágenes estáticas de la carpeta 'Logo'
 
@@ -24,7 +24,7 @@ app.get("/teams", (req, res) => {
 
   switch (categoria) {
     case "tercera":
-      filePath = path.join(__dirname, "teamData.json");
+      filePath = path.join(__dirname, "./teamData.json");
       break;
     case "cuarta":
       filePath = path.join(__dirname, "teamData 4ta.json");
@@ -56,7 +56,7 @@ app.get("/teams", (req, res) => {
 });
 
 app.get("/allTeams", (req, res) => {
-  const filePath = path.join(__dirname, "allTeams.json"); // Ruta del archivo JSON
+  const filePath = path.join(__dirname, "./allTeams.json"); // Ruta del archivo JSON
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
       return res.status(500).json({ error: "Error al cargar los datos" });
@@ -69,7 +69,7 @@ app.post("/changeResult", (req, res) => {
   const equiposActualizados = req.body; // Los datos enviados desde el frontend
 
   // Leer archivo allTeams.json
-  const filePath = path.join(__dirname, "allTeams.json");
+  const filePath = path.join(__dirname, "./allTeams.json");
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
       console.error("Error al leer el archivo:", err);
